@@ -23,6 +23,6 @@ public class User {
     private LocalDate dn;
     private HashMap<String, User> amigos;
     private HashMap<String, User> pedidosAmigo; //users q querem ser amigos deste.
-    private HashSet<Atividade> ativs;
+    
 
 }    

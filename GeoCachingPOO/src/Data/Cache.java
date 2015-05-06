@@ -22,5 +22,6 @@ public abstract class Cache {
     private HashSet<String> assinantes;
     private String descricao;
     private int dificuldade;
+    private Clima clima;
     
 }
